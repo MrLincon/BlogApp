@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Blog App</string>
+    <string name="open">Navigation Drawer Opened</string>
+    <string name="close">Navigation Drawer Closed</string>>
+</resources>

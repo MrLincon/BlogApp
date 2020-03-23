@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#121416</color>
+    <color name="colorPrimaryDark">#121416</color>
+    <color name="colorAccent">#66bb6a</color>
+
+    <color name="colorToolbarTitle">#fff</color>
+    <color name="colorNavHeaderTitle">#fff</color>
+    <color name="colorText">#eee</color>
+    <color name="colorTextSecondary">#80EEEEEE</color>
+    <color name="colorTextAlt">#121416</color>
+    <color name="colorButton">#ffffff</color>
+    <color name="colorButtonText">#121416</color>
+
+    <color name="colorBackground">#303030</color>
+    <color name="colorViewPagerBackground">#303030</color>
+    <color name="colorCard">#202020</color>
+    <color name="colorView">#1D1D1D</color>
+    <color name="colorIconTint">#fff</color>
+    <color name="colorDrawerBackground">#121416</color>
+
+
+    <color name="colorTextTab">#424242</color>
+    <color name="colorIndicatorTab">#66bb6a</color>
+    <color name="colorSelectedTextTab">#eee</color>
+
+    <color name="colorFab">#eee</color>
+    <color name="colorPopupWindow">#eee</color>
+
+</resources>

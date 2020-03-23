@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#66bb6a</color>
+
+    <color name="colorToolbarTitle">#fff</color>
+    <color name="colorNavHeaderTitle">#fff</color>
+    <color name="colorText">#121416</color>
+    <color name="colorTextSecondary">#BF121416</color>
+    <color name="colorTextAlt">#fff</color>
+    <color name="colorButton">#121416</color>
+    <color name="colorButtonText">#fff</color>
+
+    <color name="colorBackground">#fafafa</color>
+    <color name="colorViewPagerBackground">#efefef</color>
+    <color name="colorView">#1A000000</color>
+    <color name="colorCard">#fff</color>
+    <color name="colorIconTint">#fff</color>
+    <color name="colorDrawerBackground">#fafafa</color>
+
+    <color name="colorTextTab">#424242</color>
+    <color name="colorIndicatorTab">#66bb6a</color>
+    <color name="colorSelectedTextTab">#66bb6a</color>
+
+    <color name="colorFab">#121416</color>
+    <color name="colorPopupWindow">#202020</color>
+
+</resources>

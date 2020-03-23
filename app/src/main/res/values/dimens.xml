@@ -1,0 +1,7 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="sidePadding">10dp</dimen>
+    <dimen name="topPadding">10dp</dimen>
+    <dimen name="bottomPadding">10dp</dimen>
+    <dimen name="CrListPadding">16dp</dimen>
+</resources>

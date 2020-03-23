@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Primary">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/feed"
+                    android:title="Feed"
+                    android:icon="@drawable/ic_feed"
+                    android:iconTint="@color/colorPrimary"></item>
+                <item
+                    android:id="@+id/post"
+                    android:title="Add Post"
+                    android:icon="@drawable/ic_add"
+                    android:iconTint="@color/colorPrimary"></item>
+                <item
+                    android:id="@+id/my_post"
+                    android:title="My Posts"
+                    android:icon="@drawable/ic_edit"
+                    android:iconTint="@color/colorPrimary"></item>
+                <item
+                    android:id="@+id/dark_mode_toggle"
+                    android:icon="@drawable/ic_brightness"
+                    app:actionLayout="@layout/drawer_switch"
+                    android:title="Dark Mode"
+                    android:iconTint="@color/colorPrimary"></item>
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="More">
+        <menu>
+            <group>
+                <item
+                    android:id="@+id/logout"
+                    android:title="Log out"
+                    android:icon="@drawable/ic_exit"
+                    android:iconTint="@color/colorPrimary"></item>
+            </group>
+        </menu>
+    </item>
+
+</menu>
